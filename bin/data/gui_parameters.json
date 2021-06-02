@@ -1,0 +1,25 @@
+{
+    "group": {
+        "animate": "0",
+        "backgroundColor": "53, 127, 13, 255",
+        "color": "0, 0, 0, 255",
+        "maxCircleSize": "150",
+        "maxGrowRadius": "150",
+        "offsetLeft": "667",
+        "offsetTop": "540",
+        "padding": "264",
+        "rock1x": "345.6",
+        "rock1y": "405",
+        "rock2x": "566.4",
+        "rock2y": "405",
+        "rock3x": "787.2",
+        "rock3y": "405",
+        "rock4x": "1008",
+        "rock4y": "405",
+        "sizeMax": "15.7056",
+        "sizeMin": "10.5465",
+        "spacing": "1.5",
+        "speed": "30",
+        "stoneCircleColor": "255, 169, 56, 255"
+    }
+}
